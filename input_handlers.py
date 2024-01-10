@@ -3,7 +3,6 @@ from __future__ import annotations
 from typing import Optional, TYPE_CHECKING
 
 import tcod.event
-from tcod.event import T
 
 from actions import Action, BumpAction, EscapeAction, WaitAction
 
